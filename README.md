@@ -6,11 +6,10 @@
 
 ##  Sobre mim
 
-Desenvolvedora **Full Stack** com grande interesse em **acessibilidade, impacto social, IA aplicada**.  
-Tenho um estilo de código limpo, organizado e guiado por propósito.  
-Gosto de transformar ideias em produtos reais que acolhem, protegem e ensinam.
+📊 Estudante de Banco de Dados | SQL | Modelagem de Dados | Análise e organização de informações para gerar insights.
 
-Atualmente estudo:
+
+Formações:
 
 - **Banco de Dados - UNICESUMAR**  
 - **Power BI -  Data Science Academy**
