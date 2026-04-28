@@ -16,16 +16,19 @@ Formações:
 - **Excel Avançado- Fundação Bradesco**
 
 
-Meu foco está em construir tecnologias simples mas eficazes, seguras e tecnicamente sólidas..
+Buscando desenvolver soluções eficientes e contribuir para tomadas de decisão através de informações bem estruturadas.
 
 <br/>
 
 ## O que eu faço
 
 ✨ Linguagens & Databases: Python, SQL (consultas, modelagem, otimização) 
+
 ✨ Ferramentas de BI & Visualização: Power BI, Excel Avançado (tabelas dinâmicas, funções 
 avançadas, macros) 
+
 ✨ Arquitetura de Dados: Modelagem dimensional, ETL (Extract, Transform, Load), pipeline de dados
+
 ✨ Análise de Dados: Limpeza de dados, análise exploratória, qualidade de dados
 
 <br/>
